@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-r2m1sk.salamkita.shop/sitemap.xml
